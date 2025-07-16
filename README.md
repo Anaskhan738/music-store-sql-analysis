@@ -44,4 +44,3 @@ It includes 11 analytical queries that answer key business questions.
 
 ---
 
-Made with 💻 and 🎵 by Anas Khan
