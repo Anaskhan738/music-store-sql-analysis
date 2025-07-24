@@ -7,7 +7,6 @@ It includes 11 analytical queries that answer key business questions.
 
 - ✅ Created a relational database with 11 tables
 - ✅ Solved 11 business questions using SQL
-- ✅ Self-learned project using YouTube & practice
 
 ## 📊 Key Business Questions Answered
 
